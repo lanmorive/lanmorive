@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+&weight=500&pause=1001&color=5D1683&vCenter=true&repeat=false&width=435&lines=Console+println+%22Hello+world%22)](https://git.io/typing-svg)
-![image](https://github.com/user-attachments/assets/dab3598d-d212-426f-96f4-0462d7a87b6a)
+![image](https://github.com/user-attachments/assets/e7d4ec46-50a5-44a3-8c76-29547ed03b91)
 
 <!--
 **lanmorive/lanmorive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
