@@ -15,9 +15,7 @@ class MLEngineer:
     name       = "Lanmo"
     focus      = ["NLP", "RAG Systems", "Computer Vision"]
     stack      = ["PyTorch", "Transformers", "LangChain", "FastAPI"]
-    now        = "Building Financial-RAG — LLM pipeline for financial docs"
     learning   = ["LLM fine-tuning", "Vector DBs", "Agents"]
-    fun_fact   = "I turn unstructured PDFs into structured knowledge 📄→🧠"
 ```
 
 ---
